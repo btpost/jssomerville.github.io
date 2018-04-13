@@ -102,7 +102,7 @@ There's a whole bunch of different ways to write this statement. Personally, I l
 Here are some more examples. Try to write the mathematical statements in plain english. decide whether the statement is true or false:
 Let A be the set of all odd integers. $$\forall x \in A,\; \exists n \in \mathbb{Z}\,\,\,such\:that\,\,\,x = 2n-1$$.
 $$\forall x \in \mathbb{R}, \; \exists y \in \mathbb{R} \,\,\, such\;that\,\,\, x=y^2$$
-$$\exists x \in mathbb{R}, \,\,\,such\;that\,\,\, \forall y \in mathbb{R}, \; x = y^2$$
+$$\exists x \in \mathbb{R}, \,\,\,such\;that\,\,\, \forall y \in \mathbb{R}, \; x = y^2$$
 $$\forall x,y \in \mathbb{R},\; \exists z \in \mathbb{R} \,\,\,such\;that\,\,\, x^2 + y^2 = z$$
 $$\exists x, y, z \in \mathbb{Z}\,\,\, such\;that\,\,\, x^2+y^2=z^2$$
 $$\forall x,y \in \mathbb{z},\; \exists z \in \mathbb{z} \,\,\,such\;that\,\,\, x^2 + y^2 = z^2$$
@@ -123,7 +123,7 @@ $$\frac{6}{5}$$ has a remainder of 1, and $$\frac{7}{3}$$ has a remainder of 1, 
 
 #### Divides: "&#124;"
 
-So, we talked about "&#124;" when working with set builder notation above. But, the it also gets use as a symbol meaning "divisible by". So, we can write something like $$ 3$$ &#124; $$6$$. This means 3 divides 6 evenly (with no remainder). We can also write $$3 \not |  7$$. This generally is only used in reference to integers, but it also comes up in reference to polynomials and some other mathematical objects. One more example: $$ x, y \in \mathbb{Z} \,\,\, where \,\,\, x=2y, \; then\,\,\, 2 \vert x$$
+So, we talked about "&#124;" when working with set builder notation above. But, the it also gets use as a symbol meaning "divisible by". So, we can write something like $$ 3$$  $$ &#124;$$ $$ 6$$. This means 3 divides 6 evenly (with no remainder). We can also write $$3 \not |  7$$. This generally is only used in reference to integers, but it also comes up in reference to polynomials and some other mathematical objects. One more example: $$ x, y \in \mathbb{Z} \,\,\, where \,\,\, x=2y, \; then\,\,\, 2 \vert x$$
 
 #### Ceiling "$$\lceil\,\,\rceil$$" and Floor "$$\lfloor\,\,\rfloor$$"
 
